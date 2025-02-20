@@ -1,0 +1,38 @@
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding: 2px;
+    background: #f8f9fa;
+    border-bottom: 2px solid #e9ecef;
+  }
+  
+  button{
+    background-color: white;
+    color: #1cb474;
+    border: 1px solid #1cb474;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px; /* Измените значение на желаемый размер */
+  }
+
+  button:hover{
+    background-color: #1cb474;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+  }
+
+  .reduced-image {
+    width: 100px;
+    height: 80px;
+  }
+  p {
+    font-size: 15px;
+    font-weight: Normal;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  
